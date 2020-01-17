@@ -1,0 +1,13 @@
+/2020/01/
+/2020/01/17/hello-world/feed/
+/author/landu/
+/comments/feed/
+/feed/
+/sample-page/feed/
+/wp-admin/
+/wp-content/themes/twentytwenty/assets/js/index.js
+/wp-content/themes/twentytwenty/print.css
+/wp-content/themes/twentytwenty/style.css
+/wp-includes/css/dist/block-library/style.min.css
+/wp-json/
+/wp-json/oembed/1.0/embed
